@@ -1,0 +1,8 @@
+username: manny
+pass: smith
+
+user1 = testuser1
+pass = jonbellion
+
+user2 = testuser2
+pass = testswift2
