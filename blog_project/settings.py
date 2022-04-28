@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'rest_framework_swagger',
     'allauth',
     'allauth.account',
-    'allauth.socialaccount',
+    # 'allauth.socialaccount',
     'rest_auth',
     'rest_auth.registration',
 
