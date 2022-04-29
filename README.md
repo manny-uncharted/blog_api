@@ -2,8 +2,7 @@
 
 A backend api for the blog.
 
-It fectches the posts from the database and returns them as json.
-
-It also handles the post creation and deletion.
-
-It also fetches user data from the database.
+- Allows users to make posts using the api endpoint
+- Users can view everyone’s post but only edit their own posts
+- New users can signup and create their own accounts and make posts
+- Users can edit their own posts.
